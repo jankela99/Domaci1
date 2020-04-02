@@ -1,0 +1,43 @@
+[
+
+    {
+        "id" : 1,
+        "name" : "Artikal 1"
+    },
+
+    {
+        "id" : 2,
+        "name" : "Artikal 2"
+    },
+
+    {
+        "id" : 3,
+        "name" : "Artikal 3"
+    },
+
+    {
+        "id" : 4,
+        "name" : "Artikal 4"
+    },
+
+    {
+        "id" : 5,
+        "name" : "Artikal 5"
+    },
+
+    {
+        "id" : 6,
+        "name" : "Artikal 6"
+    },
+
+    {
+        "id" : 7,
+        "name" : "Artikal 7"
+    },
+
+    {
+        "id" : 8,
+        "name" : "Artikal 8"
+    }
+
+]
